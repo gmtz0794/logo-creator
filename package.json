@@ -8,7 +8,7 @@
       "test": "jest"
     },
     "keywords": [],
-    "author": "",
+    "author": "Gustavo",
     "license": "MIT",
     "dependencies": {
       "inquirer": "^8.2.4"
